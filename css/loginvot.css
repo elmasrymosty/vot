@@ -1,0 +1,48 @@
+<style>
+      marquee{
+      font-size: 30px;
+      font-weight: 800;
+      color: #8ebf42;
+      font-family: sans-serif;
+      }
+.my { background-color:#80ffd4;
+width:70px;
+border: 2px solid black;
+  margin: 20px;
+  padding: 20px;}
+input[type=text] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+ background-color: #80ffd4;
+}
+
+img {
+  float: right;
+
+}
+
+
+body {
+    background-color: #d5ff80;
+}
+
+#m{
+background-color: #c2c2a3;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer; }
+#can{padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid yellow;
+  border-radius: 4px;
+ background-color: #66ff66;
+}
+
+ 
+</style>
